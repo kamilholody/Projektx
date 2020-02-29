@@ -1,0 +1,2 @@
+Template repository 
+Template repositories let users generate new repositories with the same directory structure and files. Indicate if kamilholody/Projektx can be used as a template for creating other repositories.
